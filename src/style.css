@@ -1,0 +1,8 @@
+.hello{
+  font-size:24px;
+  color: #000;
+  border: 2px solid #000;
+  background: url('./icon.png') no-repeat right;
+  padding-top: 50px;
+  box-sizing: border-box;
+}
